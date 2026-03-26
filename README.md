@@ -10,5 +10,5 @@ A program that **computes simple linear regression and makes predictions** from 
 
 **Demonstration:**
 
-![SCREENSHOT](screenshots/startup.png)
+
 ![SCREENSHOT](screenshots/regressionanalyzer.png)
