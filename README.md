@@ -8,7 +8,7 @@ A program that **computes simple linear regression and makes predictions** from 
 - Shows the **regression equation** and the **null hypothesis test result**.  
 - Predicts `y` values for new inputs after training the model.
 
-**Technologies:** C#, .NET WPF
+**Technologies:** C#, .NET WinForms
 
 **Demonstration:** 
 
